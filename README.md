@@ -250,15 +250,9 @@ These agents run when a user clicks **"Run Full Analysis"**. They simulate a Wal
 > [!WARNING]
 > **Multi-Model Fallback**: The `api_manager` allows the system to switch between Google Gemini and Groq (Llama 3) dynamically if one provider goes down or limits are reached.
 
-## Novelty
-<div align="center">
-<img src="novelty.png" alt="Novelty" width="80%">
-</div>
-
-
 ## Overall Architecture
 <div align="center">
-<img src="SoftwareEngineeringProject.png" alt="System Workflow" width="100%">
+<img src="SolftwareEngineeringProject.png" alt="System Workflow" width="100%">
 </div>
 
 ## Tech Stack
@@ -267,6 +261,5 @@ These agents run when a user clicks **"Run Full Analysis"**. They simulate a Wal
 </div>
 
 ### Thank You!
-*Team FiveX*
 
 </div>
