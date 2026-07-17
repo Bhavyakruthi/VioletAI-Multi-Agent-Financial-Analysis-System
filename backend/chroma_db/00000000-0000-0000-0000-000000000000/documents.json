@@ -1,0 +1,120 @@
+{
+  "1be1c4a6-05b3-45a2-b0e0-dbd7d0b3a283": {
+    "id": "1be1c4a6-05b3-45a2-b0e0-dbd7d0b3a283",
+    "filename": "ITC.NS_20260127_231200.pdf",
+    "file_type": ".pdf",
+    "doc_type": "general",
+    "chunk_count": 7,
+    "uploaded_at": "2026-01-27T23:21:23.746353",
+    "size_bytes": 87748
+  },
+  "f7a5549d-c3c2-4a26-b56a-5f9c5a654aea": {
+    "id": "f7a5549d-c3c2-4a26-b56a-5f9c5a654aea",
+    "filename": "INFY.NS_20260127_224804.pdf",
+    "file_type": ".pdf",
+    "doc_type": "general",
+    "chunk_count": 6,
+    "uploaded_at": "2026-01-27T23:21:39.851039",
+    "size_bytes": 91189
+  },
+  "report_NVDA_20260128_001527": {
+    "id": "report_NVDA_20260128_001527",
+    "filename": "NVDA Research Report (20260128_001527)",
+    "file_type": "generated_report",
+    "doc_type": "research_report",
+    "ticker": "NVDA",
+    "chunk_count": 8,
+    "uploaded_at": "2026-01-28T00:15:28.196006",
+    "size_bytes": 5029
+  },
+  "report_GOOGL_20260128_002654": {
+    "id": "report_GOOGL_20260128_002654",
+    "filename": "GOOGL Research Report (20260128_002654)",
+    "file_type": "generated_report",
+    "doc_type": "research_report",
+    "ticker": "GOOGL",
+    "chunk_count": 11,
+    "uploaded_at": "2026-01-28T00:26:55.868505",
+    "size_bytes": 6453
+  },
+  "report_TSLA_20260128_005944": {
+    "id": "report_TSLA_20260128_005944",
+    "filename": "TSLA Research Report (20260128_005944)",
+    "file_type": "generated_report",
+    "doc_type": "research_report",
+    "ticker": "TSLA",
+    "chunk_count": 8,
+    "uploaded_at": "2026-01-28T00:59:46.232252",
+    "size_bytes": 4910
+  },
+  "report_WIPRO.NS_20260128_011310": {
+    "id": "report_WIPRO.NS_20260128_011310",
+    "filename": "WIPRO.NS Research Report (20260128_011310)",
+    "file_type": "generated_report",
+    "doc_type": "research_report",
+    "ticker": "WIPRO.NS",
+    "chunk_count": 5,
+    "uploaded_at": "2026-01-28T01:13:11.654208",
+    "size_bytes": 2868
+  },
+  "report_SBIN.NS_20260128_014454": {
+    "id": "report_SBIN.NS_20260128_014454",
+    "filename": "SBIN.NS Research Report (20260128_014454)",
+    "file_type": "generated_report",
+    "doc_type": "research_report",
+    "ticker": "SBIN.NS",
+    "chunk_count": 4,
+    "uploaded_at": "2026-01-28T01:44:54.952307",
+    "size_bytes": 3442
+  },
+  "report_SBIN.NS_20260128_015537": {
+    "id": "report_SBIN.NS_20260128_015537",
+    "filename": "SBIN.NS Research Report (20260128_015537)",
+    "file_type": "generated_report",
+    "doc_type": "research_report",
+    "ticker": "SBIN.NS",
+    "chunk_count": 7,
+    "uploaded_at": "2026-01-28T01:55:38.973415",
+    "size_bytes": 3830
+  },
+  "report_INFY.NS_20260128_102535": {
+    "id": "report_INFY.NS_20260128_102535",
+    "filename": "INFY.NS Research Report (20260128_102535)",
+    "file_type": "generated_report",
+    "doc_type": "research_report",
+    "ticker": "INFY.NS",
+    "chunk_count": 7,
+    "uploaded_at": "2026-01-28T10:25:36.714452",
+    "size_bytes": 4244
+  },
+  "report_RELIANCE.NS_20260128_122804": {
+    "id": "report_RELIANCE.NS_20260128_122804",
+    "filename": "RELIANCE.NS Research Report (20260128_122804)",
+    "file_type": "generated_report",
+    "doc_type": "research_report",
+    "ticker": "RELIANCE.NS",
+    "chunk_count": 7,
+    "uploaded_at": "2026-01-28T12:28:06.306401",
+    "size_bytes": 4198
+  },
+  "report_TSLA_20260128_123842": {
+    "id": "report_TSLA_20260128_123842",
+    "filename": "TSLA Research Report (20260128_123842)",
+    "file_type": "generated_report",
+    "doc_type": "research_report",
+    "ticker": "TSLA",
+    "chunk_count": 7,
+    "uploaded_at": "2026-01-28T12:38:43.683479",
+    "size_bytes": 4055
+  },
+  "report_NVDA_20260128_173111": {
+    "id": "report_NVDA_20260128_173111",
+    "filename": "NVDA Research Report (20260128_173111)",
+    "file_type": "generated_report",
+    "doc_type": "research_report",
+    "ticker": "NVDA",
+    "chunk_count": 5,
+    "uploaded_at": "2026-01-28T17:31:12.890764",
+    "size_bytes": 3762
+  }
+}

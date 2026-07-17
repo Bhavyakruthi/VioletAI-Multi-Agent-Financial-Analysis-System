@@ -1,0 +1,38 @@
+{
+  "ticker": "MSFT",
+  "timestamp": "2026-01-27T21:55:21.423513",
+  "user_id": "00000000-0000-0000-0000-000000000000",
+  "stock_info": {
+    "name": "Microsoft Corporation",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "current_price": 479.705,
+    "market_cap": 3565726990336,
+    "currency": "USD"
+  },
+  "forecast": {
+    "target_price": 397.25,
+    "trend": "BEARISH",
+    "days": 60,
+    "current_price": 479.7409973144531
+  },
+  "sentiment": {
+    "compound": -0.009389501065015793,
+    "label": "Negative"
+  },
+  "fhi": {
+    "score": 81.4,
+    "grade": "A"
+  },
+  "recommendation": {
+    "rating": "HOLD",
+    "confidence": 0.62,
+    "final_score": 61.76,
+    "risk_level": "high",
+    "reasoning": "The KPI score is 42.86. The sentiment score is 9.91. The overall risk level is high. The final recommendation is HOLD."
+  },
+  "report_path": null,
+  "chart_url": "/charts/MSFT_60d_20260127215523.png",
+  "chart_path": "output\\MSFT_60d_20260127215523.png",
+  "report_body": "# Executive Summary\n\nAnalysis for **MSFT** generated on 2026-01-27.\n\n\n**Investment Rating: HOLD**\n\nConfidence: 62%\n\n\n## Financial Health\n\n- FHI Score: 81.4/100\n\n- Grade: A\n\n\n## Sentiment Analysis\n\n- Sentiment Score: -0.01\n\n- Outlook: Negative\n\n\n## 30-Day Forecast\n\n- Current Price: 479.74\n\n- Target Price: 397.25\n\n- Trend: BEARISH\n\n\n## Investment Rationale\n\nThe KPI score is 42.86. The sentiment score is 9.91. The overall risk level is high. The final recommendation is HOLD."
+}

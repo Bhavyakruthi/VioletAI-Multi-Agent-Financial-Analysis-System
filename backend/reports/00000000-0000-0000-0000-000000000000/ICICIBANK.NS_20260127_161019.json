@@ -1,0 +1,38 @@
+{
+  "ticker": "ICICIBANK.NS",
+  "timestamp": "2026-01-27T16:10:06.359020",
+  "user_id": "00000000-0000-0000-0000-000000000000",
+  "stock_info": {
+    "name": "ICICI Bank Limited",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional",
+    "current_price": 1361.4,
+    "market_cap": 9736997044224,
+    "currency": "INR"
+  },
+  "forecast": {
+    "target_price": 1385.06,
+    "trend": "BULLISH",
+    "days": 30,
+    "current_price": 1361.4000244140625
+  },
+  "sentiment": {
+    "compound": -0.44519365206360817,
+    "label": "Negative"
+  },
+  "fhi": {
+    "score": 77.52,
+    "grade": "B"
+  },
+  "recommendation": {
+    "rating": "HOLD",
+    "confidence": 0.57,
+    "final_score": 57.41,
+    "risk_level": "medium",
+    "reasoning": "The KPI score is 32.86. The sentiment score is 5.55. The overall risk level is medium. The final recommendation is HOLD."
+  },
+  "report_path": null,
+  "chart_url": "/charts/ICICIBANK.NS_30d_20260127161008.png",
+  "chart_path": "output\\ICICIBANK.NS_30d_20260127161008.png",
+  "report_body": "# Executive Summary\n\nAnalysis for **ICICIBANK.NS** generated on 2026-01-27.\n\n\n**Investment Rating: HOLD**\n\nConfidence: 57%\n\n\n## Financial Health\n\n- FHI Score: 77.52/100\n\n- Grade: B\n\n\n## Sentiment Analysis\n\n- Sentiment Score: -0.45\n\n- Outlook: Negative\n\n\n## 30-Day Forecast\n\n- Current Price: 1361.40\n\n- Target Price: 1385.06\n\n- Trend: BULLISH\n\n\n## Investment Rationale\n\nThe KPI score is 32.86. The sentiment score is 5.55. The overall risk level is medium. The final recommendation is HOLD."
+}

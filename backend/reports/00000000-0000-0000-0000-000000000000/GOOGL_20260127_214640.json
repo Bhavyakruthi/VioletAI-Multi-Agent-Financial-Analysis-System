@@ -1,0 +1,38 @@
+{
+  "ticker": "GOOGL",
+  "timestamp": "2026-01-27T21:46:12.596835",
+  "user_id": "00000000-0000-0000-0000-000000000000",
+  "stock_info": {
+    "name": "Alphabet Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "current_price": 336.37,
+    "market_cap": 4074222387200,
+    "currency": "USD"
+  },
+  "forecast": {
+    "target_price": 322.35,
+    "trend": "BEARISH",
+    "days": 14,
+    "current_price": 336.3756103515625
+  },
+  "sentiment": {
+    "compound": 0.2913996037095785,
+    "label": "Positive"
+  },
+  "fhi": {
+    "score": 90.88,
+    "grade": "A"
+  },
+  "recommendation": {
+    "rating": "BUY",
+    "confidence": 0.75,
+    "final_score": 74.77,
+    "risk_level": "medium",
+    "reasoning": "The KPI score is 42.86. The sentiment score is 12.91. The overall risk level is medium. The final recommendation is BUY."
+  },
+  "report_path": null,
+  "chart_url": "/charts/GOOGL_14d_20260127214615.png",
+  "chart_path": "output\\GOOGL_14d_20260127214615.png",
+  "report_body": "# Executive Summary\n\nAnalysis for **GOOGL** generated on 2026-01-27.\n\n\n**Investment Rating: BUY**\n\nConfidence: 75%\n\n\n## Financial Health\n\n- FHI Score: 90.88/100\n\n- Grade: A\n\n\n## Sentiment Analysis\n\n- Sentiment Score: 0.29\n\n- Outlook: Positive\n\n\n## 30-Day Forecast\n\n- Current Price: 336.38\n\n- Target Price: 322.35\n\n- Trend: BEARISH\n\n\n## Investment Rationale\n\nThe KPI score is 42.86. The sentiment score is 12.91. The overall risk level is medium. The final recommendation is BUY."
+}

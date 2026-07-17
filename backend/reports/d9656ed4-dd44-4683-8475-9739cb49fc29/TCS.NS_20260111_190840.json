@@ -1,0 +1,38 @@
+{
+  "ticker": "TCS.NS",
+  "timestamp": "2026-01-11T19:07:54.163239",
+  "user_id": "d9656ed4-dd44-4683-8475-9739cb49fc29",
+  "stock_info": {
+    "name": "Tata Consultancy Services Limited",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "current_price": 3207.8,
+    "market_cap": 11606100541440,
+    "currency": "INR"
+  },
+  "forecast": {
+    "target_price": 2593.25,
+    "trend": "BEARISH",
+    "days": 90,
+    "current_price": 3207.800048828125
+  },
+  "sentiment": {
+    "compound": -0.22054309770464897,
+    "label": "Negative"
+  },
+  "fhi": {
+    "score": 87.01,
+    "grade": "A"
+  },
+  "recommendation": {
+    "rating": "HOLD",
+    "confidence": 0.6,
+    "final_score": 59.65,
+    "risk_level": "high",
+    "reasoning": "The KPI score is 42.86. The sentiment score is 7.79. The overall risk level is high. The final recommendation is HOLD."
+  },
+  "report_path": null,
+  "chart_url": "/charts/TCS.NS_90d_20260111190814.png",
+  "chart_path": "output\\TCS.NS_90d_20260111190814.png",
+  "report_body": "\" and \""
+}

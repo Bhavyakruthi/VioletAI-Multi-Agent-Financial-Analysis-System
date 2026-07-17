@@ -1,0 +1,38 @@
+{
+  "ticker": "RELIANCE.NS",
+  "timestamp": "2026-01-11T18:21:48.342948",
+  "user_id": "d9656ed4-dd44-4683-8475-9739cb49fc29",
+  "stock_info": {
+    "name": "Reliance Industries Limited",
+    "sector": "Energy",
+    "industry": "Oil & Gas Refining & Marketing",
+    "current_price": 1475.3,
+    "market_cap": 19965193224192,
+    "currency": "INR"
+  },
+  "forecast": {
+    "target_price": 1556.61,
+    "trend": "BULLISH",
+    "days": 7,
+    "current_price": 1475.300048828125
+  },
+  "sentiment": {
+    "compound": -0.8648762572556734,
+    "label": "Negative"
+  },
+  "fhi": {
+    "score": 44.78,
+    "grade": "E"
+  },
+  "recommendation": {
+    "rating": "HOLD",
+    "confidence": 0.52,
+    "final_score": 51.78,
+    "risk_level": "high",
+    "reasoning": "The KPI score is 41.43. The sentiment score is 1.35. The overall risk level is high. The final recommendation is HOLD."
+  },
+  "report_path": null,
+  "chart_url": "/charts/RELIANCE.NS_7d_20260111182208.png",
+  "chart_path": "output\\RELIANCE.NS_7d_20260111182208.png",
+  "report_body": "\"**.\n2.  **Executive Summary**: Briefly summarize the key findings, including the rating, risk level, FHI score, sentiment, and 7-day outlook. Highlight the divergence between the bullish forecast and negative sentiment.\n3.  **Financial Health & Sentiment Analysis**:\n    *   Discuss the FHI score (44.78/100) and its implications for financial stability.\n    *   Elaborate on the sentiment score (-0.86), emphasizing its extreme negativity and potential drivers as per the context.\n    *   Integrate the overall analysis from the context regarding the contradictory signals.\n4.  **Document Insights**: This section will be based on the \"Key Insights for RELIANCE.NS\" provided in the context. I will explain the forecast trend (BULLISH) and its implications, then contrast it with the FHI and Sentiment scores, highlighting the \"significant divergence.\" I will also discuss the \"Overall Analysis and Key Takeaways\" from the context, focusing on risk vs. opportunity and the call for deeper investigation.\n5.  **Technical Outlook**: Incorporate the \"7-Day Outlook: BULLISH\" and provide a brief, professional interpretation.\n6.  **Final Investment Case**:\n    *   State the \"Rating: HOLD\" clearly.\n    *   Justify the HOLD rating by balancing the bullish forecast/technical outlook with the moderate financial health and extremely negative sentiment.\n    *   Address the \"Risk Level: high\" and explain why, linking it to the contradictory signals and market uncertainty.\n    *   Conclude with a balanced perspective, emphasizing the need for further monitoring due to the conflicting signals.\n7.  **End with \""
+}

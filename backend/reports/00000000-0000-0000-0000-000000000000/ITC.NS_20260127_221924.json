@@ -1,0 +1,38 @@
+{
+  "ticker": "ITC.NS",
+  "timestamp": "2026-01-27T22:18:44.521573",
+  "user_id": "00000000-0000-0000-0000-000000000000",
+  "stock_info": {
+    "name": "ITC Limited",
+    "sector": "Consumer Defensive",
+    "industry": "Tobacco",
+    "current_price": 318.65,
+    "market_cap": 3992438964224,
+    "currency": "INR"
+  },
+  "forecast": {
+    "target_price": 299.96,
+    "trend": "BEARISH",
+    "days": 14,
+    "current_price": 318.6499938964844
+  },
+  "sentiment": {
+    "compound": -0.20328439166769385,
+    "label": "Negative"
+  },
+  "fhi": {
+    "score": 93.01,
+    "grade": "A"
+  },
+  "recommendation": {
+    "rating": "HOLD",
+    "confidence": 0.6,
+    "final_score": 59.82,
+    "risk_level": "high",
+    "reasoning": "The KPI score is 42.86. The sentiment score is 7.97. The overall risk level is high. The final recommendation is HOLD."
+  },
+  "report_path": null,
+  "chart_url": "/charts/ITC.NS_14d_20260127221853.png",
+  "chart_path": "output\\ITC.NS_14d_20260127221853.png",
+  "report_body": "# Executive Research Report: ITC.NS\n\nGenerated via High-Fidelity Quantitative Engine on 2026-01-27\n\n\n## \ud83c\udfaf Investment Recommendation: HOLD\n- **Confidence Score**: 60%\n- **Risk Level**: high\n\n### \ud83d\udcdd Strategic Rationale\nThe KPI score is 42.86. The sentiment score is 7.97. The overall risk level is high. The final recommendation is HOLD.\n\n## \ud83d\udcca Market Vitals\n- **Company**: ITC Limited\n- **Sector**: Consumer Defensive\n- **Current Price**: INR318.65\n\n## \ud83d\udee1\ufe0f Financial Health & Sentiment\n- **FHI Score**: 93.01/100 (Grade: A)\n- **Sentiment Sentiment Score**: -0.20 (Negative)\n- **Tone Analysis**: Management exhibits a predominantly negative outlook on recent performance.\n\n## \ud83d\udcc8 Performance Outlook\n- **14-Day Trajectory**: BEARISH\n- **Algorithmic Target**: INR299.96\n- **Trend Analysis**: Quantitative modeling indicates a bearish price action over the next quarter.\n\n\n---\n*Note: This report was generated using core quantitative analytics as the AI-augmented drafting service is currently experiencing high volume.*"
+}

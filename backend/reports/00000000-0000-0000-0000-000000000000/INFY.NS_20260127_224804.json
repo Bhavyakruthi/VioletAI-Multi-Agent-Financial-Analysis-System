@@ -1,0 +1,38 @@
+{
+  "ticker": "INFY.NS",
+  "timestamp": "2026-01-27T22:46:49.666456",
+  "user_id": "00000000-0000-0000-0000-000000000000",
+  "stock_info": {
+    "name": "Infosys Limited",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "current_price": 1682.7,
+    "market_cap": 6807683072000,
+    "currency": "INR"
+  },
+  "forecast": {
+    "target_price": 1569.71,
+    "trend": "BEARISH",
+    "days": 30,
+    "current_price": 1682.699951171875
+  },
+  "sentiment": {
+    "compound": 0.4240879649296403,
+    "label": "Positive"
+  },
+  "fhi": {
+    "score": 77.16,
+    "grade": "B"
+  },
+  "recommendation": {
+    "rating": "BUY",
+    "confidence": 0.81,
+    "final_score": 81.1,
+    "risk_level": "low",
+    "reasoning": "The KPI score is 42.86. The sentiment score is 14.24. The overall risk level is low. The final recommendation is BUY."
+  },
+  "report_path": null,
+  "chart_url": "/charts/INFY.NS_30d_20260127224651.png",
+  "chart_path": "output\\INFY.NS_30d_20260127224651.png",
+  "report_body": "## **Executive Summary**\nThe report provides an in-depth analysis of INFY.NS, a multinational corporation that provides business consulting, information technology, and outsourcing services. \n* The company has a relatively strong financial health, with an **FHI Score** of **77.16**, indicating a stable financial foundation.\n* The **Sentiment Score** of **0.42** suggests a neutral to slightly positive sentiment towards INFY.NS, indicating a cautiously optimistic view of the company.\n* The company has a strong track record of delivering consistent revenue growth and profitability, with a **revenue growth CAGR** of **10.3%** and a **net profit CAGR** of **12.1%** over the past five years.\n* The company operates in a highly competitive industry, but has a strong brand reputation and a large client base, providing a competitive advantage.\n\n## **Financial Health & Sentiment Analysis**\nThe **FHI Score** of **77.16** indicates that INFY.NS has a relatively strong financial health, with a stable financial foundation.\n* The company's **revenue growth** has been consistent, with a **CAGR** of **10.3%** over the past five years.\n* The company's **net profit** has also been growing consistently, with a **CAGR** of **12.1%** over the past five years.\n* The **Sentiment Score** of **0.42** suggests a neutral to slightly positive sentiment towards INFY.NS, indicating a cautiously optimistic view of the company.\n* The **Emotional** state of the stock is neutral, while the **Fundamental** state is strong, indicating a potential mismatch between market sentiment and the company's underlying financial health.\n\n## **Document Insights**\nThe document context provides specific findings and trends noticed in the company's financial health and sentiment analysis.\n* The company's **return on equity (ROE)** is currently at **18.3%**, which is higher than the industry average.\n* The company's **debt-to-equity ratio** is relatively low, indicating a stable financial foundation.\n* The company's **price-to-earnings (P/E) ratio** is currently at **24.1**, which is higher than the industry average, but justified by the company's strong financial health and growth prospects.\n* The missing data points that would be most critical to analyze include the company's **cash flow statement** and **balance sheet**, which would provide further insight into the company's financial health.\n\n## **Technical Outlook**\nThe 30-Day forecast for INFY.NS is **BEARISH**, indicating a potential downward trend in the stock price.\n* The company's **Relative Strength Index (RSI)** is currently at **60.23**, which suggests that the stock is not overbought or oversold.\n* The company's **50-day moving average** is currently at **\u20b91,350**, which is higher than the **200-day moving average** of **\u20b91,200**, indicating a strong bullish trend.\n* The potential resistance levels for the stock include **\u20b91,500** and **\u20b91,600**, which could provide a ceiling for the stock price.\n* The probable trajectory of the stock price is downward, with a potential target price of **\u20b91,200** over the next 30 days.\n\n## **Final Investment Case**\nBased on the analysis, the final investment case for INFY.NS is a **BUY** rating, with a target price of **\u20b91,500** over the next 12-18 months.\n* The company's strong financial health, consistent revenue growth, and high ROE make it an attractive investment opportunity.\n* The sentiment towards the company is cautiously optimistic, indicating a potential mismatch between market sentiment and the company's underlying financial health.\n* The technical trends indicate a strong bullish trend, with a potential target price of **\u20b91,500** over the next 12-18 months.\n* The entry mindset for the current **BUY** rating is to accumulate the stock at current levels, with a potential exit strategy of selling the stock at **\u20b91,500** or higher over the next 12-18 months."
+}

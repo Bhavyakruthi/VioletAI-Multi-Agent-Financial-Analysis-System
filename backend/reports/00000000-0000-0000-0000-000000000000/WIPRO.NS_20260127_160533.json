@@ -1,0 +1,38 @@
+{
+  "ticker": "WIPRO.NS",
+  "timestamp": "2026-01-27T16:04:37.972091",
+  "user_id": "00000000-0000-0000-0000-000000000000",
+  "stock_info": {
+    "name": "Wipro Limited",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "current_price": 234.8,
+    "market_cap": 2459695054848,
+    "currency": "INR"
+  },
+  "forecast": {
+    "target_price": 252.2,
+    "trend": "BULLISH",
+    "days": 30,
+    "current_price": 234.8000030517578
+  },
+  "sentiment": {
+    "compound": -0.9101079562678933,
+    "label": "Negative"
+  },
+  "fhi": {
+    "score": 68.77,
+    "grade": "C"
+  },
+  "recommendation": {
+    "rating": "HOLD",
+    "confidence": 0.51,
+    "final_score": 51.33,
+    "risk_level": "high",
+    "reasoning": "The KPI score is 41.43. The sentiment score is 0.9. The overall risk level is high. The final recommendation is HOLD."
+  },
+  "report_path": null,
+  "chart_url": "/charts/WIPRO.NS_30d_20260127160439.png",
+  "chart_path": "output\\WIPRO.NS_30d_20260127160439.png",
+  "report_body": "# Executive Summary\n\nAnalysis for **WIPRO.NS** generated on 2026-01-27.\n\n\n**Investment Rating: HOLD**\n\nConfidence: 51%\n\n\n## Financial Health\n\n- FHI Score: 68.77/100\n\n- Grade: C\n\n\n## Sentiment Analysis\n\n- Sentiment Score: -0.91\n\n- Outlook: Negative\n\n\n## 30-Day Forecast\n\n- Current Price: 234.80\n\n- Target Price: 252.20\n\n- Trend: BULLISH\n\n\n## Investment Rationale\n\nThe KPI score is 41.43. The sentiment score is 0.9. The overall risk level is high. The final recommendation is HOLD."
+}

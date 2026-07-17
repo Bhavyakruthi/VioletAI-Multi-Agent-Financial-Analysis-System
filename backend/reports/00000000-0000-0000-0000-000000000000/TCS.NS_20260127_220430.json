@@ -1,0 +1,38 @@
+{
+  "ticker": "TCS.NS",
+  "timestamp": "2026-01-27T22:03:56.868223",
+  "user_id": "00000000-0000-0000-0000-000000000000",
+  "stock_info": {
+    "name": "Tata Consultancy Services Limited",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "current_price": 3158.0,
+    "market_cap": 11425920581632,
+    "currency": "INR"
+  },
+  "forecast": {
+    "target_price": 2808.06,
+    "trend": "BEARISH",
+    "days": 30,
+    "current_price": 3158.0
+  },
+  "sentiment": {
+    "compound": -0.56865721847862,
+    "label": "Negative"
+  },
+  "fhi": {
+    "score": 87.01,
+    "grade": "A"
+  },
+  "recommendation": {
+    "rating": "HOLD",
+    "confidence": 0.56,
+    "final_score": 56.17,
+    "risk_level": "high",
+    "reasoning": "The KPI score is 42.86. The sentiment score is 4.31. The overall risk level is high. The final recommendation is HOLD."
+  },
+  "report_path": null,
+  "chart_url": "/charts/TCS.NS_30d_20260127220358.png",
+  "chart_path": "output\\TCS.NS_30d_20260127220358.png",
+  "report_body": "# Executive Research Report: TCS.NS\n\nGenerated via High-Fidelity Quantitative Engine on 2026-01-27\n\n\n## \ud83c\udfaf Investment Recommendation: HOLD\n- **Confidence Score**: 56%\n- **Risk Level**: high\n\n### \ud83d\udcdd Strategic Rationale\nThe KPI score is 42.86. The sentiment score is 4.31. The overall risk level is high. The final recommendation is HOLD.\n\n## \ud83d\udcca Market Vitals\n- **Company**: Tata Consultancy Services Limited\n- **Sector**: Technology\n- **Current Price**: INR3158.0\n\n## \ud83d\udee1\ufe0f Financial Health & Sentiment\n- **FHI Score**: 87.01/100 (Grade: A)\n- **Sentiment Sentiment Score**: -0.57 (Negative)\n- **Tone Analysis**: Management exhibits a predominantly negative outlook on recent performance.\n\n## \ud83d\udcc8 Performance Outlook\n- **30-Day Trajectory**: BEARISH\n- **Algorithmic Target**: INR2808.06\n- **Trend Analysis**: Quantitative modeling indicates a bearish price action over the next quarter.\n\n\n---\n*Note: This report was generated using core quantitative analytics as the AI-augmented drafting service is currently experiencing high volume.*"
+}

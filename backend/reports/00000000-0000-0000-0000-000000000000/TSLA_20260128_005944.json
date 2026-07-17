@@ -1,0 +1,2032 @@
+{
+  "ticker": "TSLA",
+  "timestamp": "2026-01-28T00:59:32.150640",
+  "user_id": "00000000-0000-0000-0000-000000000000",
+  "stock_info": {
+    "name": "Tesla, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "current_price": 430.98,
+    "market_cap": 1433361580032,
+    "currency": "USD"
+  },
+  "forecast": {
+    "target_price": 311.55,
+    "trend": "BEARISH",
+    "days": 30,
+    "current_price": 431.0,
+    "points": [
+      {
+        "date": "2024-11-11",
+        "yhat": 355.66,
+        "yhat_lower": 339.0,
+        "yhat_upper": 375.17
+      },
+      {
+        "date": "2024-11-12",
+        "yhat": 350.62,
+        "yhat_lower": 333.72,
+        "yhat_upper": 369.44
+      },
+      {
+        "date": "2024-11-13",
+        "yhat": 348.72,
+        "yhat_lower": 331.43,
+        "yhat_upper": 364.6
+      },
+      {
+        "date": "2024-11-14",
+        "yhat": 341.34,
+        "yhat_lower": 323.75,
+        "yhat_upper": 359.66
+      },
+      {
+        "date": "2024-11-15",
+        "yhat": 340.98,
+        "yhat_lower": 323.38,
+        "yhat_upper": 359.74
+      },
+      {
+        "date": "2024-11-18",
+        "yhat": 335.0,
+        "yhat_lower": 317.87,
+        "yhat_upper": 351.82
+      },
+      {
+        "date": "2024-11-19",
+        "yhat": 331.76,
+        "yhat_lower": 313.5,
+        "yhat_upper": 349.53
+      },
+      {
+        "date": "2024-11-20",
+        "yhat": 332.21,
+        "yhat_lower": 314.54,
+        "yhat_upper": 351.03
+      },
+      {
+        "date": "2024-11-21",
+        "yhat": 327.68,
+        "yhat_lower": 309.41,
+        "yhat_upper": 344.07
+      },
+      {
+        "date": "2024-11-22",
+        "yhat": 330.62,
+        "yhat_lower": 311.63,
+        "yhat_upper": 346.97
+      },
+      {
+        "date": "2024-11-25",
+        "yhat": 336.66,
+        "yhat_lower": 319.24,
+        "yhat_upper": 353.91
+      },
+      {
+        "date": "2024-11-26",
+        "yhat": 337.87,
+        "yhat_lower": 320.56,
+        "yhat_upper": 355.74
+      },
+      {
+        "date": "2024-11-27",
+        "yhat": 342.84,
+        "yhat_lower": 327.12,
+        "yhat_upper": 360.91
+      },
+      {
+        "date": "2024-11-29",
+        "yhat": 350.17,
+        "yhat_lower": 334.26,
+        "yhat_upper": 368.27
+      },
+      {
+        "date": "2024-12-02",
+        "yhat": 367.91,
+        "yhat_lower": 349.96,
+        "yhat_upper": 385.12
+      },
+      {
+        "date": "2024-12-03",
+        "yhat": 372.27,
+        "yhat_lower": 355.19,
+        "yhat_upper": 389.58
+      },
+      {
+        "date": "2024-12-04",
+        "yhat": 379.88,
+        "yhat_lower": 363.1,
+        "yhat_upper": 396.87
+      },
+      {
+        "date": "2024-12-05",
+        "yhat": 381.97,
+        "yhat_lower": 363.2,
+        "yhat_upper": 399.28
+      },
+      {
+        "date": "2024-12-06",
+        "yhat": 390.84,
+        "yhat_lower": 373.57,
+        "yhat_upper": 408.33
+      },
+      {
+        "date": "2024-12-09",
+        "yhat": 409.47,
+        "yhat_lower": 392.24,
+        "yhat_upper": 426.72
+      },
+      {
+        "date": "2024-12-10",
+        "yhat": 412.89,
+        "yhat_lower": 395.31,
+        "yhat_upper": 431.1
+      },
+      {
+        "date": "2024-12-11",
+        "yhat": 418.99,
+        "yhat_lower": 402.33,
+        "yhat_upper": 436.98
+      },
+      {
+        "date": "2024-12-12",
+        "yhat": 419.02,
+        "yhat_lower": 400.99,
+        "yhat_upper": 435.32
+      },
+      {
+        "date": "2024-12-13",
+        "yhat": 425.35,
+        "yhat_lower": 409.14,
+        "yhat_upper": 442.1
+      },
+      {
+        "date": "2024-12-16",
+        "yhat": 434.03,
+        "yhat_lower": 416.67,
+        "yhat_upper": 450.97
+      },
+      {
+        "date": "2024-12-17",
+        "yhat": 433.61,
+        "yhat_lower": 415.72,
+        "yhat_upper": 452.7
+      },
+      {
+        "date": "2024-12-18",
+        "yhat": 435.74,
+        "yhat_lower": 417.53,
+        "yhat_upper": 453.15
+      },
+      {
+        "date": "2024-12-19",
+        "yhat": 431.75,
+        "yhat_lower": 414.69,
+        "yhat_upper": 449.14
+      },
+      {
+        "date": "2024-12-20",
+        "yhat": 434.09,
+        "yhat_lower": 417.49,
+        "yhat_upper": 451.62
+      },
+      {
+        "date": "2024-12-23",
+        "yhat": 431.78,
+        "yhat_lower": 415.5,
+        "yhat_upper": 449.15
+      },
+      {
+        "date": "2024-12-24",
+        "yhat": 428.23,
+        "yhat_lower": 410.69,
+        "yhat_upper": 445.87
+      },
+      {
+        "date": "2024-12-26",
+        "yhat": 421.23,
+        "yhat_lower": 405.03,
+        "yhat_upper": 438.94
+      },
+      {
+        "date": "2024-12-27",
+        "yhat": 421.63,
+        "yhat_lower": 404.24,
+        "yhat_upper": 439.69
+      },
+      {
+        "date": "2024-12-30",
+        "yhat": 416.14,
+        "yhat_lower": 397.24,
+        "yhat_upper": 433.2
+      },
+      {
+        "date": "2024-12-31",
+        "yhat": 412.41,
+        "yhat_lower": 396.18,
+        "yhat_upper": 430.54
+      },
+      {
+        "date": "2025-01-02",
+        "yhat": 406.21,
+        "yhat_lower": 387.69,
+        "yhat_upper": 423.11
+      },
+      {
+        "date": "2025-01-03",
+        "yhat": 407.51,
+        "yhat_lower": 391.57,
+        "yhat_upper": 424.56
+      },
+      {
+        "date": "2025-01-06",
+        "yhat": 406.18,
+        "yhat_lower": 389.02,
+        "yhat_upper": 423.97
+      },
+      {
+        "date": "2025-01-07",
+        "yhat": 404.12,
+        "yhat_lower": 386.97,
+        "yhat_upper": 422.84
+      },
+      {
+        "date": "2025-01-08",
+        "yhat": 405.43,
+        "yhat_lower": 385.85,
+        "yhat_upper": 423.1
+      },
+      {
+        "date": "2025-01-10",
+        "yhat": 404.33,
+        "yhat_lower": 386.35,
+        "yhat_upper": 421.41
+      },
+      {
+        "date": "2025-01-13",
+        "yhat": 407.15,
+        "yhat_lower": 389.67,
+        "yhat_upper": 424.17
+      },
+      {
+        "date": "2025-01-14",
+        "yhat": 406.08,
+        "yhat_lower": 387.74,
+        "yhat_upper": 423.62
+      },
+      {
+        "date": "2025-01-15",
+        "yhat": 408.11,
+        "yhat_lower": 390.04,
+        "yhat_upper": 426.14
+      },
+      {
+        "date": "2025-01-16",
+        "yhat": 404.53,
+        "yhat_lower": 386.64,
+        "yhat_upper": 423.15
+      },
+      {
+        "date": "2025-01-17",
+        "yhat": 407.69,
+        "yhat_lower": 389.8,
+        "yhat_upper": 426.29
+      },
+      {
+        "date": "2025-01-21",
+        "yhat": 407.64,
+        "yhat_lower": 389.51,
+        "yhat_upper": 424.27
+      },
+      {
+        "date": "2025-01-22",
+        "yhat": 408.68,
+        "yhat_lower": 391.37,
+        "yhat_upper": 426.46
+      },
+      {
+        "date": "2025-01-23",
+        "yhat": 403.91,
+        "yhat_lower": 386.75,
+        "yhat_upper": 422.2
+      },
+      {
+        "date": "2025-01-24",
+        "yhat": 405.75,
+        "yhat_lower": 387.4,
+        "yhat_upper": 422.66
+      },
+      {
+        "date": "2025-01-27",
+        "yhat": 403.14,
+        "yhat_lower": 385.83,
+        "yhat_upper": 421.13
+      },
+      {
+        "date": "2025-01-28",
+        "yhat": 399.73,
+        "yhat_lower": 381.18,
+        "yhat_upper": 419.32
+      },
+      {
+        "date": "2025-01-29",
+        "yhat": 399.26,
+        "yhat_lower": 381.15,
+        "yhat_upper": 417.53
+      },
+      {
+        "date": "2025-01-30",
+        "yhat": 393.06,
+        "yhat_lower": 376.08,
+        "yhat_upper": 410.89
+      },
+      {
+        "date": "2025-01-31",
+        "yhat": 393.55,
+        "yhat_lower": 376.43,
+        "yhat_upper": 411.55
+      },
+      {
+        "date": "2025-02-03",
+        "yhat": 387.52,
+        "yhat_lower": 369.44,
+        "yhat_upper": 404.27
+      },
+      {
+        "date": "2025-02-04",
+        "yhat": 383.21,
+        "yhat_lower": 363.95,
+        "yhat_upper": 400.9
+      },
+      {
+        "date": "2025-02-05",
+        "yhat": 381.95,
+        "yhat_lower": 364.74,
+        "yhat_upper": 399.12
+      },
+      {
+        "date": "2025-02-06",
+        "yhat": 375.07,
+        "yhat_lower": 357.11,
+        "yhat_upper": 393.02
+      },
+      {
+        "date": "2025-02-07",
+        "yhat": 374.95,
+        "yhat_lower": 357.45,
+        "yhat_upper": 392.07
+      },
+      {
+        "date": "2025-02-10",
+        "yhat": 367.5,
+        "yhat_lower": 350.8,
+        "yhat_upper": 385.8
+      },
+      {
+        "date": "2025-02-11",
+        "yhat": 362.76,
+        "yhat_lower": 343.98,
+        "yhat_upper": 380.26
+      },
+      {
+        "date": "2025-02-12",
+        "yhat": 361.08,
+        "yhat_lower": 342.78,
+        "yhat_upper": 377.95
+      },
+      {
+        "date": "2025-02-13",
+        "yhat": 353.74,
+        "yhat_lower": 335.13,
+        "yhat_upper": 372.0
+      },
+      {
+        "date": "2025-02-14",
+        "yhat": 353.14,
+        "yhat_lower": 335.77,
+        "yhat_upper": 371.12
+      },
+      {
+        "date": "2025-02-18",
+        "yhat": 338.29,
+        "yhat_lower": 322.1,
+        "yhat_upper": 356.12
+      },
+      {
+        "date": "2025-02-19",
+        "yhat": 335.74,
+        "yhat_lower": 318.27,
+        "yhat_upper": 354.13
+      },
+      {
+        "date": "2025-02-20",
+        "yhat": 327.47,
+        "yhat_lower": 310.57,
+        "yhat_upper": 345.24
+      },
+      {
+        "date": "2025-02-21",
+        "yhat": 325.87,
+        "yhat_lower": 307.86,
+        "yhat_upper": 343.04
+      },
+      {
+        "date": "2025-02-24",
+        "yhat": 313.42,
+        "yhat_lower": 295.65,
+        "yhat_upper": 331.08
+      },
+      {
+        "date": "2025-02-25",
+        "yhat": 306.91,
+        "yhat_lower": 289.73,
+        "yhat_upper": 325.04
+      },
+      {
+        "date": "2025-02-26",
+        "yhat": 303.45,
+        "yhat_lower": 285.57,
+        "yhat_upper": 322.15
+      },
+      {
+        "date": "2025-02-27",
+        "yhat": 294.37,
+        "yhat_lower": 277.82,
+        "yhat_upper": 312.36
+      },
+      {
+        "date": "2025-02-28",
+        "yhat": 292.12,
+        "yhat_lower": 273.9,
+        "yhat_upper": 309.44
+      },
+      {
+        "date": "2025-03-03",
+        "yhat": 278.89,
+        "yhat_lower": 261.95,
+        "yhat_upper": 296.63
+      },
+      {
+        "date": "2025-03-04",
+        "yhat": 272.62,
+        "yhat_lower": 254.97,
+        "yhat_upper": 289.52
+      },
+      {
+        "date": "2025-03-05",
+        "yhat": 269.68,
+        "yhat_lower": 251.96,
+        "yhat_upper": 288.99
+      },
+      {
+        "date": "2025-03-06",
+        "yhat": 261.41,
+        "yhat_lower": 244.43,
+        "yhat_upper": 278.2
+      },
+      {
+        "date": "2025-03-07",
+        "yhat": 260.28,
+        "yhat_lower": 240.78,
+        "yhat_upper": 278.01
+      },
+      {
+        "date": "2025-03-10",
+        "yhat": 252.21,
+        "yhat_lower": 233.65,
+        "yhat_upper": 270.9
+      },
+      {
+        "date": "2025-03-11",
+        "yhat": 248.2,
+        "yhat_lower": 229.45,
+        "yhat_upper": 264.95
+      },
+      {
+        "date": "2025-03-12",
+        "yhat": 247.76,
+        "yhat_lower": 230.87,
+        "yhat_upper": 266.46
+      },
+      {
+        "date": "2025-03-13",
+        "yhat": 242.2,
+        "yhat_lower": 223.88,
+        "yhat_upper": 261.06
+      },
+      {
+        "date": "2025-03-14",
+        "yhat": 243.92,
+        "yhat_lower": 225.99,
+        "yhat_upper": 261.53
+      },
+      {
+        "date": "2025-03-17",
+        "yhat": 244.86,
+        "yhat_lower": 228.46,
+        "yhat_upper": 263.14
+      },
+      {
+        "date": "2025-03-18",
+        "yhat": 243.84,
+        "yhat_lower": 226.2,
+        "yhat_upper": 260.78
+      },
+      {
+        "date": "2025-03-19",
+        "yhat": 246.27,
+        "yhat_lower": 229.08,
+        "yhat_upper": 264.86
+      },
+      {
+        "date": "2025-03-20",
+        "yhat": 243.43,
+        "yhat_lower": 225.65,
+        "yhat_upper": 260.25
+      },
+      {
+        "date": "2025-03-21",
+        "yhat": 247.66,
+        "yhat_lower": 228.62,
+        "yhat_upper": 265.31
+      },
+      {
+        "date": "2025-03-24",
+        "yhat": 254.44,
+        "yhat_lower": 236.02,
+        "yhat_upper": 271.82
+      },
+      {
+        "date": "2025-03-25",
+        "yhat": 254.68,
+        "yhat_lower": 237.67,
+        "yhat_upper": 272.94
+      },
+      {
+        "date": "2025-03-26",
+        "yhat": 258.01,
+        "yhat_lower": 239.57,
+        "yhat_upper": 274.58
+      },
+      {
+        "date": "2025-03-27",
+        "yhat": 255.66,
+        "yhat_lower": 238.8,
+        "yhat_upper": 272.23
+      },
+      {
+        "date": "2025-03-28",
+        "yhat": 260.0,
+        "yhat_lower": 241.76,
+        "yhat_upper": 277.58
+      },
+      {
+        "date": "2025-03-31",
+        "yhat": 264.89,
+        "yhat_lower": 246.6,
+        "yhat_upper": 281.6
+      },
+      {
+        "date": "2025-04-01",
+        "yhat": 263.85,
+        "yhat_lower": 246.77,
+        "yhat_upper": 281.58
+      },
+      {
+        "date": "2025-04-02",
+        "yhat": 265.61,
+        "yhat_lower": 249.05,
+        "yhat_upper": 284.03
+      },
+      {
+        "date": "2025-04-03",
+        "yhat": 261.48,
+        "yhat_lower": 244.26,
+        "yhat_upper": 279.6
+      },
+      {
+        "date": "2025-04-04",
+        "yhat": 263.87,
+        "yhat_lower": 247.8,
+        "yhat_upper": 280.9
+      },
+      {
+        "date": "2025-04-07",
+        "yhat": 262.5,
+        "yhat_lower": 245.58,
+        "yhat_upper": 281.53
+      },
+      {
+        "date": "2025-04-08",
+        "yhat": 259.44,
+        "yhat_lower": 242.0,
+        "yhat_upper": 277.27
+      },
+      {
+        "date": "2025-04-09",
+        "yhat": 259.33,
+        "yhat_lower": 243.03,
+        "yhat_upper": 276.7
+      },
+      {
+        "date": "2025-04-10",
+        "yhat": 253.52,
+        "yhat_lower": 235.04,
+        "yhat_upper": 272.29
+      },
+      {
+        "date": "2025-04-11",
+        "yhat": 254.48,
+        "yhat_lower": 237.08,
+        "yhat_upper": 271.56
+      },
+      {
+        "date": "2025-04-14",
+        "yhat": 250.73,
+        "yhat_lower": 234.01,
+        "yhat_upper": 270.78
+      },
+      {
+        "date": "2025-04-15",
+        "yhat": 247.61,
+        "yhat_lower": 229.45,
+        "yhat_upper": 265.24
+      },
+      {
+        "date": "2025-04-16",
+        "yhat": 247.85,
+        "yhat_lower": 230.24,
+        "yhat_upper": 265.7
+      },
+      {
+        "date": "2025-04-17",
+        "yhat": 242.79,
+        "yhat_lower": 224.19,
+        "yhat_upper": 259.81
+      },
+      {
+        "date": "2025-04-21",
+        "yhat": 246.79,
+        "yhat_lower": 229.38,
+        "yhat_upper": 264.81
+      },
+      {
+        "date": "2025-04-22",
+        "yhat": 246.18,
+        "yhat_lower": 228.37,
+        "yhat_upper": 264.07
+      },
+      {
+        "date": "2025-04-23",
+        "yhat": 249.18,
+        "yhat_lower": 231.9,
+        "yhat_upper": 265.81
+      },
+      {
+        "date": "2025-04-24",
+        "yhat": 247.07,
+        "yhat_lower": 228.92,
+        "yhat_upper": 264.32
+      },
+      {
+        "date": "2025-04-25",
+        "yhat": 252.27,
+        "yhat_lower": 234.25,
+        "yhat_upper": 271.28
+      },
+      {
+        "date": "2025-04-28",
+        "yhat": 263.67,
+        "yhat_lower": 245.69,
+        "yhat_upper": 281.39
+      },
+      {
+        "date": "2025-04-29",
+        "yhat": 266.1,
+        "yhat_lower": 248.74,
+        "yhat_upper": 282.84
+      },
+      {
+        "date": "2025-04-30",
+        "yhat": 271.97,
+        "yhat_lower": 253.99,
+        "yhat_upper": 288.32
+      },
+      {
+        "date": "2025-05-01",
+        "yhat": 272.5,
+        "yhat_lower": 255.14,
+        "yhat_upper": 291.09
+      },
+      {
+        "date": "2025-05-02",
+        "yhat": 280.07,
+        "yhat_lower": 261.31,
+        "yhat_upper": 296.63
+      },
+      {
+        "date": "2025-05-05",
+        "yhat": 296.6,
+        "yhat_lower": 279.16,
+        "yhat_upper": 313.76
+      },
+      {
+        "date": "2025-05-06",
+        "yhat": 300.0,
+        "yhat_lower": 281.29,
+        "yhat_upper": 317.5
+      },
+      {
+        "date": "2025-05-07",
+        "yhat": 306.43,
+        "yhat_lower": 289.87,
+        "yhat_upper": 324.8
+      },
+      {
+        "date": "2025-05-08",
+        "yhat": 307.14,
+        "yhat_lower": 290.17,
+        "yhat_upper": 324.75
+      },
+      {
+        "date": "2025-05-09",
+        "yhat": 314.48,
+        "yhat_lower": 297.74,
+        "yhat_upper": 332.42
+      },
+      {
+        "date": "2025-05-12",
+        "yhat": 328.11,
+        "yhat_lower": 309.92,
+        "yhat_upper": 345.63
+      },
+      {
+        "date": "2025-05-13",
+        "yhat": 329.87,
+        "yhat_lower": 311.55,
+        "yhat_upper": 346.97
+      },
+      {
+        "date": "2025-05-14",
+        "yhat": 334.4,
+        "yhat_lower": 317.1,
+        "yhat_upper": 353.91
+      },
+      {
+        "date": "2025-05-15",
+        "yhat": 332.91,
+        "yhat_lower": 314.96,
+        "yhat_upper": 349.97
+      },
+      {
+        "date": "2025-05-16",
+        "yhat": 337.88,
+        "yhat_lower": 319.48,
+        "yhat_upper": 355.5
+      },
+      {
+        "date": "2025-05-19",
+        "yhat": 343.71,
+        "yhat_lower": 327.35,
+        "yhat_upper": 360.74
+      },
+      {
+        "date": "2025-05-20",
+        "yhat": 342.81,
+        "yhat_lower": 325.78,
+        "yhat_upper": 360.49
+      },
+      {
+        "date": "2025-05-21",
+        "yhat": 344.71,
+        "yhat_lower": 328.44,
+        "yhat_upper": 361.8
+      },
+      {
+        "date": "2025-05-22",
+        "yhat": 340.73,
+        "yhat_lower": 323.97,
+        "yhat_upper": 358.72
+      },
+      {
+        "date": "2025-05-23",
+        "yhat": 343.32,
+        "yhat_lower": 325.77,
+        "yhat_upper": 360.82
+      },
+      {
+        "date": "2025-05-27",
+        "yhat": 340.41,
+        "yhat_lower": 322.91,
+        "yhat_upper": 357.23
+      },
+      {
+        "date": "2025-05-28",
+        "yhat": 340.85,
+        "yhat_lower": 324.2,
+        "yhat_upper": 360.17
+      },
+      {
+        "date": "2025-05-29",
+        "yhat": 335.64,
+        "yhat_lower": 318.13,
+        "yhat_upper": 353.04
+      },
+      {
+        "date": "2025-05-30",
+        "yhat": 337.2,
+        "yhat_lower": 319.21,
+        "yhat_upper": 353.55
+      },
+      {
+        "date": "2025-06-02",
+        "yhat": 335.02,
+        "yhat_lower": 318.27,
+        "yhat_upper": 352.42
+      },
+      {
+        "date": "2025-06-03",
+        "yhat": 332.21,
+        "yhat_lower": 315.43,
+        "yhat_upper": 349.35
+      },
+      {
+        "date": "2025-06-04",
+        "yhat": 332.57,
+        "yhat_lower": 315.74,
+        "yhat_upper": 349.6
+      },
+      {
+        "date": "2025-06-05",
+        "yhat": 327.4,
+        "yhat_lower": 309.43,
+        "yhat_upper": 344.26
+      },
+      {
+        "date": "2025-06-06",
+        "yhat": 329.14,
+        "yhat_lower": 311.47,
+        "yhat_upper": 346.84
+      },
+      {
+        "date": "2025-06-09",
+        "yhat": 327.96,
+        "yhat_lower": 309.6,
+        "yhat_upper": 345.22
+      },
+      {
+        "date": "2025-06-10",
+        "yhat": 325.57,
+        "yhat_lower": 308.53,
+        "yhat_upper": 343.68
+      },
+      {
+        "date": "2025-06-11",
+        "yhat": 326.37,
+        "yhat_lower": 309.12,
+        "yhat_upper": 343.25
+      },
+      {
+        "date": "2025-06-12",
+        "yhat": 321.65,
+        "yhat_lower": 304.98,
+        "yhat_upper": 339.4
+      },
+      {
+        "date": "2025-06-13",
+        "yhat": 323.82,
+        "yhat_lower": 306.43,
+        "yhat_upper": 341.02
+      },
+      {
+        "date": "2025-06-16",
+        "yhat": 323.78,
+        "yhat_lower": 306.31,
+        "yhat_upper": 341.21
+      },
+      {
+        "date": "2025-06-17",
+        "yhat": 321.7,
+        "yhat_lower": 305.31,
+        "yhat_upper": 339.42
+      },
+      {
+        "date": "2025-06-18",
+        "yhat": 322.77,
+        "yhat_lower": 304.82,
+        "yhat_upper": 340.33
+      },
+      {
+        "date": "2025-06-20",
+        "yhat": 320.64,
+        "yhat_lower": 303.34,
+        "yhat_upper": 337.45
+      },
+      {
+        "date": "2025-06-23",
+        "yhat": 321.0,
+        "yhat_lower": 302.73,
+        "yhat_upper": 337.88
+      },
+      {
+        "date": "2025-06-24",
+        "yhat": 319.01,
+        "yhat_lower": 301.3,
+        "yhat_upper": 336.34
+      },
+      {
+        "date": "2025-06-25",
+        "yhat": 320.15,
+        "yhat_lower": 302.9,
+        "yhat_upper": 337.42
+      },
+      {
+        "date": "2025-06-26",
+        "yhat": 315.74,
+        "yhat_lower": 297.03,
+        "yhat_upper": 333.17
+      },
+      {
+        "date": "2025-06-27",
+        "yhat": 318.14,
+        "yhat_lower": 299.55,
+        "yhat_upper": 335.24
+      },
+      {
+        "date": "2025-06-30",
+        "yhat": 318.65,
+        "yhat_lower": 300.53,
+        "yhat_upper": 336.3
+      },
+      {
+        "date": "2025-07-01",
+        "yhat": 316.73,
+        "yhat_lower": 298.41,
+        "yhat_upper": 333.6
+      },
+      {
+        "date": "2025-07-02",
+        "yhat": 317.94,
+        "yhat_lower": 299.36,
+        "yhat_upper": 336.31
+      },
+      {
+        "date": "2025-07-03",
+        "yhat": 313.6,
+        "yhat_lower": 296.12,
+        "yhat_upper": 330.88
+      },
+      {
+        "date": "2025-07-07",
+        "yhat": 316.97,
+        "yhat_lower": 299.68,
+        "yhat_upper": 334.04
+      },
+      {
+        "date": "2025-07-08",
+        "yhat": 315.16,
+        "yhat_lower": 298.09,
+        "yhat_upper": 333.64
+      },
+      {
+        "date": "2025-07-09",
+        "yhat": 316.49,
+        "yhat_lower": 297.9,
+        "yhat_upper": 334.36
+      },
+      {
+        "date": "2025-07-10",
+        "yhat": 312.26,
+        "yhat_lower": 293.59,
+        "yhat_upper": 330.62
+      },
+      {
+        "date": "2025-07-11",
+        "yhat": 314.87,
+        "yhat_lower": 296.97,
+        "yhat_upper": 331.77
+      },
+      {
+        "date": "2025-07-14",
+        "yhat": 315.98,
+        "yhat_lower": 299.18,
+        "yhat_upper": 333.56
+      },
+      {
+        "date": "2025-07-15",
+        "yhat": 314.26,
+        "yhat_lower": 295.4,
+        "yhat_upper": 330.57
+      },
+      {
+        "date": "2025-07-16",
+        "yhat": 315.7,
+        "yhat_lower": 298.39,
+        "yhat_upper": 334.8
+      },
+      {
+        "date": "2025-07-17",
+        "yhat": 311.58,
+        "yhat_lower": 293.1,
+        "yhat_upper": 329.23
+      },
+      {
+        "date": "2025-07-18",
+        "yhat": 314.34,
+        "yhat_lower": 298.76,
+        "yhat_upper": 331.87
+      },
+      {
+        "date": "2025-07-21",
+        "yhat": 316.07,
+        "yhat_lower": 299.39,
+        "yhat_upper": 333.89
+      },
+      {
+        "date": "2025-07-22",
+        "yhat": 314.62,
+        "yhat_lower": 298.13,
+        "yhat_upper": 332.32
+      },
+      {
+        "date": "2025-07-23",
+        "yhat": 316.36,
+        "yhat_lower": 298.62,
+        "yhat_upper": 334.04
+      },
+      {
+        "date": "2025-07-24",
+        "yhat": 312.59,
+        "yhat_lower": 294.66,
+        "yhat_upper": 331.27
+      },
+      {
+        "date": "2025-07-25",
+        "yhat": 315.7,
+        "yhat_lower": 298.41,
+        "yhat_upper": 333.69
+      },
+      {
+        "date": "2025-07-28",
+        "yhat": 318.7,
+        "yhat_lower": 300.48,
+        "yhat_upper": 335.94
+      },
+      {
+        "date": "2025-07-29",
+        "yhat": 317.73,
+        "yhat_lower": 300.25,
+        "yhat_upper": 334.77
+      },
+      {
+        "date": "2025-07-30",
+        "yhat": 319.97,
+        "yhat_lower": 300.92,
+        "yhat_upper": 337.25
+      },
+      {
+        "date": "2025-07-31",
+        "yhat": 316.7,
+        "yhat_lower": 298.4,
+        "yhat_upper": 334.78
+      },
+      {
+        "date": "2025-08-01",
+        "yhat": 320.33,
+        "yhat_lower": 301.36,
+        "yhat_upper": 337.43
+      },
+      {
+        "date": "2025-08-04",
+        "yhat": 324.73,
+        "yhat_lower": 307.01,
+        "yhat_upper": 342.25
+      },
+      {
+        "date": "2025-08-05",
+        "yhat": 324.14,
+        "yhat_lower": 308.14,
+        "yhat_upper": 341.8
+      },
+      {
+        "date": "2025-08-06",
+        "yhat": 326.68,
+        "yhat_lower": 310.85,
+        "yhat_upper": 345.04
+      },
+      {
+        "date": "2025-08-07",
+        "yhat": 323.61,
+        "yhat_lower": 304.75,
+        "yhat_upper": 340.01
+      },
+      {
+        "date": "2025-08-08",
+        "yhat": 327.36,
+        "yhat_lower": 308.33,
+        "yhat_upper": 344.39
+      },
+      {
+        "date": "2025-08-11",
+        "yhat": 331.53,
+        "yhat_lower": 313.71,
+        "yhat_upper": 348.59
+      },
+      {
+        "date": "2025-08-12",
+        "yhat": 330.66,
+        "yhat_lower": 312.79,
+        "yhat_upper": 347.77
+      },
+      {
+        "date": "2025-08-13",
+        "yhat": 332.82,
+        "yhat_lower": 316.05,
+        "yhat_upper": 350.2
+      },
+      {
+        "date": "2025-08-14",
+        "yhat": 329.32,
+        "yhat_lower": 311.78,
+        "yhat_upper": 347.28
+      },
+      {
+        "date": "2025-08-15",
+        "yhat": 332.56,
+        "yhat_lower": 314.88,
+        "yhat_upper": 348.85
+      },
+      {
+        "date": "2025-08-18",
+        "yhat": 334.9,
+        "yhat_lower": 316.68,
+        "yhat_upper": 353.46
+      },
+      {
+        "date": "2025-08-19",
+        "yhat": 333.4,
+        "yhat_lower": 315.06,
+        "yhat_upper": 351.08
+      },
+      {
+        "date": "2025-08-20",
+        "yhat": 334.97,
+        "yhat_lower": 316.03,
+        "yhat_upper": 350.87
+      },
+      {
+        "date": "2025-08-21",
+        "yhat": 330.88,
+        "yhat_lower": 312.37,
+        "yhat_upper": 348.16
+      },
+      {
+        "date": "2025-08-22",
+        "yhat": 333.63,
+        "yhat_lower": 316.11,
+        "yhat_upper": 351.67
+      },
+      {
+        "date": "2025-08-25",
+        "yhat": 335.3,
+        "yhat_lower": 317.99,
+        "yhat_upper": 352.77
+      },
+      {
+        "date": "2025-08-26",
+        "yhat": 333.92,
+        "yhat_lower": 316.21,
+        "yhat_upper": 349.19
+      },
+      {
+        "date": "2025-08-27",
+        "yhat": 335.83,
+        "yhat_lower": 316.13,
+        "yhat_upper": 352.99
+      },
+      {
+        "date": "2025-08-28",
+        "yhat": 332.35,
+        "yhat_lower": 314.83,
+        "yhat_upper": 349.29
+      },
+      {
+        "date": "2025-08-29",
+        "yhat": 335.93,
+        "yhat_lower": 315.89,
+        "yhat_upper": 352.35
+      },
+      {
+        "date": "2025-09-02",
+        "yhat": 341.96,
+        "yhat_lower": 324.14,
+        "yhat_upper": 359.8
+      },
+      {
+        "date": "2025-09-03",
+        "yhat": 345.83,
+        "yhat_lower": 326.63,
+        "yhat_upper": 363.11
+      },
+      {
+        "date": "2025-09-04",
+        "yhat": 344.5,
+        "yhat_lower": 327.63,
+        "yhat_upper": 362.83
+      },
+      {
+        "date": "2025-09-05",
+        "yhat": 350.34,
+        "yhat_lower": 332.78,
+        "yhat_upper": 366.5
+      },
+      {
+        "date": "2025-09-08",
+        "yhat": 363.19,
+        "yhat_lower": 346.08,
+        "yhat_upper": 380.71
+      },
+      {
+        "date": "2025-09-09",
+        "yhat": 365.99,
+        "yhat_lower": 347.62,
+        "yhat_upper": 384.91
+      },
+      {
+        "date": "2025-09-10",
+        "yhat": 372.2,
+        "yhat_lower": 354.04,
+        "yhat_upper": 390.33
+      },
+      {
+        "date": "2025-09-11",
+        "yhat": 373.07,
+        "yhat_lower": 355.72,
+        "yhat_upper": 390.22
+      },
+      {
+        "date": "2025-09-12",
+        "yhat": 380.97,
+        "yhat_lower": 363.94,
+        "yhat_upper": 398.28
+      },
+      {
+        "date": "2025-09-15",
+        "yhat": 398.47,
+        "yhat_lower": 380.61,
+        "yhat_upper": 415.16
+      },
+      {
+        "date": "2025-09-16",
+        "yhat": 402.18,
+        "yhat_lower": 383.7,
+        "yhat_upper": 419.94
+      },
+      {
+        "date": "2025-09-17",
+        "yhat": 408.92,
+        "yhat_lower": 390.23,
+        "yhat_upper": 425.47
+      },
+      {
+        "date": "2025-09-18",
+        "yhat": 409.86,
+        "yhat_lower": 391.24,
+        "yhat_upper": 428.73
+      },
+      {
+        "date": "2025-09-19",
+        "yhat": 417.43,
+        "yhat_lower": 399.66,
+        "yhat_upper": 433.63
+      },
+      {
+        "date": "2025-09-22",
+        "yhat": 431.49,
+        "yhat_lower": 414.12,
+        "yhat_upper": 449.78
+      },
+      {
+        "date": "2025-09-23",
+        "yhat": 433.3,
+        "yhat_lower": 414.69,
+        "yhat_upper": 449.19
+      },
+      {
+        "date": "2025-09-24",
+        "yhat": 437.8,
+        "yhat_lower": 420.3,
+        "yhat_upper": 456.87
+      },
+      {
+        "date": "2025-09-25",
+        "yhat": 436.27,
+        "yhat_lower": 419.37,
+        "yhat_upper": 454.94
+      },
+      {
+        "date": "2025-09-26",
+        "yhat": 441.12,
+        "yhat_lower": 424.23,
+        "yhat_upper": 459.69
+      },
+      {
+        "date": "2025-09-29",
+        "yhat": 446.1,
+        "yhat_lower": 429.36,
+        "yhat_upper": 463.94
+      },
+      {
+        "date": "2025-09-30",
+        "yhat": 444.77,
+        "yhat_lower": 427.71,
+        "yhat_upper": 462.03
+      },
+      {
+        "date": "2025-10-01",
+        "yhat": 446.18,
+        "yhat_lower": 429.86,
+        "yhat_upper": 463.99
+      },
+      {
+        "date": "2025-10-02",
+        "yhat": 441.63,
+        "yhat_lower": 424.2,
+        "yhat_upper": 458.06
+      },
+      {
+        "date": "2025-10-03",
+        "yhat": 443.62,
+        "yhat_lower": 424.5,
+        "yhat_upper": 461.11
+      },
+      {
+        "date": "2025-10-06",
+        "yhat": 441.65,
+        "yhat_lower": 424.7,
+        "yhat_upper": 460.25
+      },
+      {
+        "date": "2025-10-07",
+        "yhat": 438.68,
+        "yhat_lower": 421.06,
+        "yhat_upper": 456.08
+      },
+      {
+        "date": "2025-10-08",
+        "yhat": 438.84,
+        "yhat_lower": 421.94,
+        "yhat_upper": 455.98
+      },
+      {
+        "date": "2025-10-09",
+        "yhat": 433.51,
+        "yhat_lower": 417.16,
+        "yhat_upper": 450.92
+      },
+      {
+        "date": "2025-10-10",
+        "yhat": 435.14,
+        "yhat_lower": 418.12,
+        "yhat_upper": 454.49
+      },
+      {
+        "date": "2025-10-13",
+        "yhat": 434.44,
+        "yhat_lower": 417.67,
+        "yhat_upper": 451.69
+      },
+      {
+        "date": "2025-10-14",
+        "yhat": 432.61,
+        "yhat_lower": 414.73,
+        "yhat_upper": 450.42
+      },
+      {
+        "date": "2025-10-15",
+        "yhat": 434.13,
+        "yhat_lower": 416.26,
+        "yhat_upper": 452.95
+      },
+      {
+        "date": "2025-10-16",
+        "yhat": 430.39,
+        "yhat_lower": 412.52,
+        "yhat_upper": 447.56
+      },
+      {
+        "date": "2025-10-17",
+        "yhat": 433.78,
+        "yhat_lower": 416.98,
+        "yhat_upper": 450.94
+      },
+      {
+        "date": "2025-10-20",
+        "yhat": 438.81,
+        "yhat_lower": 422.87,
+        "yhat_upper": 457.12
+      },
+      {
+        "date": "2025-10-21",
+        "yhat": 438.8,
+        "yhat_lower": 420.23,
+        "yhat_upper": 456.45
+      },
+      {
+        "date": "2025-10-22",
+        "yhat": 442.06,
+        "yhat_lower": 425.24,
+        "yhat_upper": 459.27
+      },
+      {
+        "date": "2025-10-23",
+        "yhat": 439.83,
+        "yhat_lower": 422.21,
+        "yhat_upper": 457.0
+      },
+      {
+        "date": "2025-10-24",
+        "yhat": 444.48,
+        "yhat_lower": 427.16,
+        "yhat_upper": 460.73
+      },
+      {
+        "date": "2025-10-27",
+        "yhat": 451.14,
+        "yhat_lower": 432.86,
+        "yhat_upper": 468.71
+      },
+      {
+        "date": "2025-10-28",
+        "yhat": 450.87,
+        "yhat_lower": 432.47,
+        "yhat_upper": 468.57
+      },
+      {
+        "date": "2025-10-29",
+        "yhat": 453.35,
+        "yhat_lower": 436.1,
+        "yhat_upper": 470.79
+      },
+      {
+        "date": "2025-10-30",
+        "yhat": 449.94,
+        "yhat_lower": 431.79,
+        "yhat_upper": 468.66
+      },
+      {
+        "date": "2025-10-31",
+        "yhat": 452.97,
+        "yhat_lower": 435.25,
+        "yhat_upper": 470.03
+      },
+      {
+        "date": "2025-11-03",
+        "yhat": 452.69,
+        "yhat_lower": 435.23,
+        "yhat_upper": 470.61
+      },
+      {
+        "date": "2025-11-04",
+        "yhat": 449.56,
+        "yhat_lower": 431.57,
+        "yhat_upper": 468.49
+      },
+      {
+        "date": "2025-11-05",
+        "yhat": 449.1,
+        "yhat_lower": 431.15,
+        "yhat_upper": 465.86
+      },
+      {
+        "date": "2025-11-06",
+        "yhat": 442.62,
+        "yhat_lower": 424.87,
+        "yhat_upper": 460.73
+      },
+      {
+        "date": "2025-11-07",
+        "yhat": 442.59,
+        "yhat_lower": 424.41,
+        "yhat_upper": 461.08
+      },
+      {
+        "date": "2025-11-10",
+        "yhat": 433.73,
+        "yhat_lower": 416.84,
+        "yhat_upper": 451.04
+      },
+      {
+        "date": "2025-11-11",
+        "yhat": 428.21,
+        "yhat_lower": 411.23,
+        "yhat_upper": 445.36
+      },
+      {
+        "date": "2025-11-12",
+        "yhat": 425.73,
+        "yhat_lower": 408.59,
+        "yhat_upper": 443.22
+      },
+      {
+        "date": "2025-11-13",
+        "yhat": 417.65,
+        "yhat_lower": 399.97,
+        "yhat_upper": 434.79
+      },
+      {
+        "date": "2025-11-14",
+        "yhat": 416.49,
+        "yhat_lower": 398.32,
+        "yhat_upper": 434.36
+      },
+      {
+        "date": "2025-11-17",
+        "yhat": 407.49,
+        "yhat_lower": 388.76,
+        "yhat_upper": 425.5
+      },
+      {
+        "date": "2025-11-18",
+        "yhat": 403.06,
+        "yhat_lower": 384.86,
+        "yhat_upper": 420.12
+      },
+      {
+        "date": "2025-11-19",
+        "yhat": 402.24,
+        "yhat_lower": 384.65,
+        "yhat_upper": 420.12
+      },
+      {
+        "date": "2025-11-20",
+        "yhat": 396.38,
+        "yhat_lower": 377.47,
+        "yhat_upper": 413.92
+      },
+      {
+        "date": "2025-11-21",
+        "yhat": 397.94,
+        "yhat_lower": 381.69,
+        "yhat_upper": 416.16
+      },
+      {
+        "date": "2025-11-24",
+        "yhat": 399.71,
+        "yhat_lower": 381.28,
+        "yhat_upper": 417.86
+      },
+      {
+        "date": "2025-11-25",
+        "yhat": 399.51,
+        "yhat_lower": 381.65,
+        "yhat_upper": 416.6
+      },
+      {
+        "date": "2025-11-26",
+        "yhat": 403.1,
+        "yhat_lower": 384.14,
+        "yhat_upper": 419.73
+      },
+      {
+        "date": "2025-11-28",
+        "yhat": 407.84,
+        "yhat_lower": 391.18,
+        "yhat_upper": 424.74
+      },
+      {
+        "date": "2025-12-01",
+        "yhat": 422.32,
+        "yhat_lower": 402.91,
+        "yhat_upper": 438.76
+      },
+      {
+        "date": "2025-12-02",
+        "yhat": 425.79,
+        "yhat_lower": 408.0,
+        "yhat_upper": 442.64
+      },
+      {
+        "date": "2025-12-03",
+        "yhat": 432.64,
+        "yhat_lower": 415.29,
+        "yhat_upper": 451.47
+      },
+      {
+        "date": "2025-12-04",
+        "yhat": 434.07,
+        "yhat_lower": 417.39,
+        "yhat_upper": 450.73
+      },
+      {
+        "date": "2025-12-05",
+        "yhat": 442.4,
+        "yhat_lower": 424.07,
+        "yhat_upper": 459.83
+      },
+      {
+        "date": "2025-12-08",
+        "yhat": 460.07,
+        "yhat_lower": 443.6,
+        "yhat_upper": 478.0
+      },
+      {
+        "date": "2025-12-09",
+        "yhat": 463.37,
+        "yhat_lower": 445.55,
+        "yhat_upper": 481.12
+      },
+      {
+        "date": "2025-12-10",
+        "yhat": 469.43,
+        "yhat_lower": 452.42,
+        "yhat_upper": 486.78
+      },
+      {
+        "date": "2025-12-11",
+        "yhat": 469.49,
+        "yhat_lower": 451.22,
+        "yhat_upper": 487.73
+      },
+      {
+        "date": "2025-12-12",
+        "yhat": 475.89,
+        "yhat_lower": 458.47,
+        "yhat_upper": 493.65
+      },
+      {
+        "date": "2025-12-15",
+        "yhat": 485.0,
+        "yhat_lower": 467.59,
+        "yhat_upper": 503.59
+      },
+      {
+        "date": "2025-12-16",
+        "yhat": 484.73,
+        "yhat_lower": 469.18,
+        "yhat_upper": 501.96
+      },
+      {
+        "date": "2025-12-17",
+        "yhat": 487.0,
+        "yhat_lower": 469.97,
+        "yhat_upper": 506.15
+      },
+      {
+        "date": "2025-12-18",
+        "yhat": 483.11,
+        "yhat_lower": 465.58,
+        "yhat_upper": 500.97
+      },
+      {
+        "date": "2025-12-19",
+        "yhat": 485.5,
+        "yhat_lower": 468.35,
+        "yhat_upper": 503.27
+      },
+      {
+        "date": "2025-12-22",
+        "yhat": 482.97,
+        "yhat_lower": 465.48,
+        "yhat_upper": 501.46
+      },
+      {
+        "date": "2025-12-23",
+        "yhat": 479.19,
+        "yhat_lower": 462.92,
+        "yhat_upper": 497.25
+      },
+      {
+        "date": "2025-12-24",
+        "yhat": 478.25,
+        "yhat_lower": 460.65,
+        "yhat_upper": 496.5
+      },
+      {
+        "date": "2025-12-26",
+        "yhat": 471.42,
+        "yhat_lower": 453.55,
+        "yhat_upper": 488.8
+      },
+      {
+        "date": "2025-12-29",
+        "yhat": 464.04,
+        "yhat_lower": 446.76,
+        "yhat_upper": 481.1
+      },
+      {
+        "date": "2025-12-30",
+        "yhat": 459.55,
+        "yhat_lower": 442.08,
+        "yhat_upper": 477.04
+      },
+      {
+        "date": "2025-12-31",
+        "yhat": 458.31,
+        "yhat_lower": 440.86,
+        "yhat_upper": 474.53
+      },
+      {
+        "date": "2026-01-02",
+        "yhat": 452.09,
+        "yhat_lower": 435.33,
+        "yhat_upper": 470.37
+      },
+      {
+        "date": "2026-01-05",
+        "yhat": 448.02,
+        "yhat_lower": 429.01,
+        "yhat_upper": 465.47
+      },
+      {
+        "date": "2026-01-06",
+        "yhat": 445.06,
+        "yhat_lower": 429.19,
+        "yhat_upper": 463.49
+      },
+      {
+        "date": "2026-01-07",
+        "yhat": 445.48,
+        "yhat_lower": 429.35,
+        "yhat_upper": 464.65
+      },
+      {
+        "date": "2026-01-08",
+        "yhat": 440.57,
+        "yhat_lower": 423.31,
+        "yhat_upper": 458.38
+      },
+      {
+        "date": "2026-01-09",
+        "yhat": 442.71,
+        "yhat_lower": 426.69,
+        "yhat_upper": 461.36
+      },
+      {
+        "date": "2026-01-12",
+        "yhat": 443.34,
+        "yhat_lower": 425.03,
+        "yhat_upper": 460.68
+      },
+      {
+        "date": "2026-01-13",
+        "yhat": 441.63,
+        "yhat_lower": 425.13,
+        "yhat_upper": 459.67
+      },
+      {
+        "date": "2026-01-14",
+        "yhat": 443.09,
+        "yhat_lower": 425.29,
+        "yhat_upper": 461.41
+      },
+      {
+        "date": "2026-01-15",
+        "yhat": 438.97,
+        "yhat_lower": 422.17,
+        "yhat_upper": 455.48
+      },
+      {
+        "date": "2026-01-16",
+        "yhat": 441.65,
+        "yhat_lower": 423.91,
+        "yhat_upper": 459.33
+      },
+      {
+        "date": "2026-01-20",
+        "yhat": 440.05,
+        "yhat_lower": 422.5,
+        "yhat_upper": 457.48
+      },
+      {
+        "date": "2026-01-21",
+        "yhat": 440.76,
+        "yhat_lower": 423.15,
+        "yhat_upper": 458.37
+      },
+      {
+        "date": "2026-01-22",
+        "yhat": 435.68,
+        "yhat_lower": 419.32,
+        "yhat_upper": 453.29
+      },
+      {
+        "date": "2026-01-23",
+        "yhat": 437.23,
+        "yhat_lower": 418.43,
+        "yhat_upper": 454.84
+      },
+      {
+        "date": "2026-01-26",
+        "yhat": 433.71,
+        "yhat_lower": 415.71,
+        "yhat_upper": 451.43
+      },
+      {
+        "date": "2026-01-27",
+        "yhat": 429.97,
+        "yhat_lower": 412.52,
+        "yhat_upper": 447.82
+      },
+      {
+        "date": "2026-01-28",
+        "yhat": 429.16,
+        "yhat_lower": 412.7,
+        "yhat_upper": 446.72
+      },
+      {
+        "date": "2026-01-29",
+        "yhat": 422.6,
+        "yhat_lower": 406.08,
+        "yhat_upper": 441.83
+      },
+      {
+        "date": "2026-01-30",
+        "yhat": 422.7,
+        "yhat_lower": 405.42,
+        "yhat_upper": 439.99
+      },
+      {
+        "date": "2026-01-31",
+        "yhat": 450.93,
+        "yhat_lower": 431.94,
+        "yhat_upper": 469.7
+      },
+      {
+        "date": "2026-02-01",
+        "yhat": 447.99,
+        "yhat_lower": 431.29,
+        "yhat_upper": 464.99
+      },
+      {
+        "date": "2026-02-02",
+        "yhat": 415.37,
+        "yhat_lower": 397.03,
+        "yhat_upper": 433.44
+      },
+      {
+        "date": "2026-02-03",
+        "yhat": 410.58,
+        "yhat_lower": 392.85,
+        "yhat_upper": 427.67
+      },
+      {
+        "date": "2026-02-04",
+        "yhat": 408.83,
+        "yhat_lower": 390.96,
+        "yhat_upper": 427.08
+      },
+      {
+        "date": "2026-02-05",
+        "yhat": 401.44,
+        "yhat_lower": 384.36,
+        "yhat_upper": 418.16
+      },
+      {
+        "date": "2026-02-06",
+        "yhat": 400.83,
+        "yhat_lower": 383.44,
+        "yhat_upper": 419.18
+      },
+      {
+        "date": "2026-02-07",
+        "yhat": 428.45,
+        "yhat_lower": 411.12,
+        "yhat_upper": 445.79
+      },
+      {
+        "date": "2026-02-08",
+        "yhat": 424.98,
+        "yhat_lower": 407.18,
+        "yhat_upper": 442.8
+      },
+      {
+        "date": "2026-02-09",
+        "yhat": 391.87,
+        "yhat_lower": 372.94,
+        "yhat_upper": 409.08
+      },
+      {
+        "date": "2026-02-10",
+        "yhat": 386.65,
+        "yhat_lower": 371.02,
+        "yhat_upper": 403.96
+      },
+      {
+        "date": "2026-02-11",
+        "yhat": 384.49,
+        "yhat_lower": 365.5,
+        "yhat_upper": 401.61
+      },
+      {
+        "date": "2026-02-12",
+        "yhat": 376.69,
+        "yhat_lower": 358.22,
+        "yhat_upper": 394.57
+      },
+      {
+        "date": "2026-02-13",
+        "yhat": 375.64,
+        "yhat_lower": 357.35,
+        "yhat_upper": 393.21
+      },
+      {
+        "date": "2026-02-14",
+        "yhat": 402.78,
+        "yhat_lower": 383.88,
+        "yhat_upper": 419.02
+      },
+      {
+        "date": "2026-02-15",
+        "yhat": 398.77,
+        "yhat_lower": 381.28,
+        "yhat_upper": 415.89
+      },
+      {
+        "date": "2026-02-16",
+        "yhat": 365.07,
+        "yhat_lower": 346.51,
+        "yhat_upper": 383.59
+      },
+      {
+        "date": "2026-02-17",
+        "yhat": 359.16,
+        "yhat_lower": 342.76,
+        "yhat_upper": 377.58
+      },
+      {
+        "date": "2026-02-18",
+        "yhat": 356.24,
+        "yhat_lower": 338.67,
+        "yhat_upper": 373.46
+      },
+      {
+        "date": "2026-02-19",
+        "yhat": 347.59,
+        "yhat_lower": 330.2,
+        "yhat_upper": 365.59
+      },
+      {
+        "date": "2026-02-20",
+        "yhat": 345.62,
+        "yhat_lower": 328.45,
+        "yhat_upper": 363.29
+      },
+      {
+        "date": "2026-02-21",
+        "yhat": 371.79,
+        "yhat_lower": 354.29,
+        "yhat_upper": 389.83
+      },
+      {
+        "date": "2026-02-22",
+        "yhat": 366.76,
+        "yhat_lower": 349.54,
+        "yhat_upper": 383.69
+      },
+      {
+        "date": "2026-02-23",
+        "yhat": 332.0,
+        "yhat_lower": 315.25,
+        "yhat_upper": 352.21
+      },
+      {
+        "date": "2026-02-24",
+        "yhat": 325.06,
+        "yhat_lower": 307.73,
+        "yhat_upper": 341.19
+      },
+      {
+        "date": "2026-02-25",
+        "yhat": 321.14,
+        "yhat_lower": 303.02,
+        "yhat_upper": 338.47
+      },
+      {
+        "date": "2026-02-26",
+        "yhat": 311.55,
+        "yhat_lower": 294.05,
+        "yhat_upper": 328.23
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8745198831893504,
+    "label": "Negative"
+  },
+  "fhi": {
+    "score": 61.05,
+    "grade": "C"
+  },
+  "recommendation": {
+    "rating": "HOLD",
+    "confidence": 0.53,
+    "final_score": 53.11,
+    "risk_level": "high",
+    "reasoning": "The KPI score is 42.86. The sentiment score is 1.25. The overall risk level is high. The final recommendation is HOLD."
+  },
+  "report_path": null,
+  "chart_url": "/charts/TSLA_30d_20260128005934.png",
+  "chart_path": "output\\TSLA_30d_20260128005934.png",
+  "report_body": "### Executive Summary\nThe investment case for Tesla, Inc. (**TSLA**) is complex, with a mix of strengths, weaknesses, opportunities, and threats. \n* The company's **Financial Health Index (FHI) score of 61.05** indicates a relatively stable financial position but also highlights areas for improvement, such as managing debt and enhancing profitability.\n* A **Sentiment score of -0.87** reflects a strongly negative market and public perception, which can impact investor confidence and stock price volatility.\n* **Strengths** include Tesla's innovative products, business models, and its position as a leader in the electric vehicle and clean energy sectors.\n* **Weaknesses** encompass the company's high debt levels, intense competition in the EV market, and sensitivity to regulatory changes and market trends.\n* **Opportunities** for growth are significant, given the expanding EV market, declining battery costs, and increasing consumer awareness of environmental issues.\n* **Threats** include the highly competitive nature of the EV and renewable energy sectors, potential supply chain disruptions, and regulatory hurdles.\n\n### Financial Health & Sentiment Analysis\nA deep dive into Tesla's **FHI Score of 61.05** and **Sentiment Score of -0.87** reveals a contrast between the company's financial stability and the negative market sentiment.\n* The **FHI Score** suggests that while Tesla demonstrates some financial resilience, there are areas for improvement, particularly in managing debt, enhancing profitability, and optimizing operational efficiency.\n* The **Sentiment Score** indicates a strongly negative perception of Tesla, which could be due to various factors, including product recalls, market competition, regulatory challenges, or controversies surrounding the company or its leadership.\n* The 'Emotional' state of the stock, as reflected by the Sentiment Score, is negative, while the 'Fundamental' state, as indicated by the FHI Score, suggests a need for improvement but also points to underlying strengths.\n* The disparity between the emotional and fundamental states of the stock highlights the importance of considering both technical and fundamental analyses when evaluating Tesla's investment potential.\n\n### Document Insights\nGiven the provided data and context, specific findings include:\n* Tesla's **innovative approach** to electric vehicles and clean energy solutions positions it well in growing markets.\n* The **high-risk classification** of the investment is a critical consideration, reflecting the volatility and speculative nature of the stock.\n* **Missing data points** that would be most critical include detailed breakdowns of Tesla's operational efficiency improvements, the impact of regulatory changes on its business model, and comprehensive analyses of its competitors' strategies and market positions.\n* Understanding these factors is essential for a comprehensive evaluation of Tesla's investment case and for making informed decisions about entry and exit points.\n\n### Technical Outlook\nThe **30-Day forecast** for Tesla is **BEARISH**, indicating a probable downward trajectory in the stock's price.\n* This forecast is based on technical indicators such as Moving Averages, Relative Strength Index (RSI), and Bollinger Bands, which suggest that the stock's momentum is currently negative.\n* **Potential resistance levels** based on the trend include previously established highs and moving average crossings, which could act as barriers to price increases.\n* The **probable trajectory** of the stock price, given the bearish forecast, suggests that investors should be cautious and consider the high-risk nature of the investment.\n\n### Final Investment Case\nSynthesizing the analysis into a final verdict, the current **HOLD** rating for Tesla reflects a balanced view of the company's strengths and weaknesses, as well as the market's negative sentiment.\n* The **Entry/Exit mindset** for investors should be cautious, considering the high-risk classification and the bearish technical outlook.\n* **Key metrics** to watch include Tesla's **FHI Score**, **Sentiment Score**, and technical indicators such as the **RSI** and **Bollinger Bands**, which can provide insights into the stock's potential movements.\n* A **price target** of **$150-$200** could be considered, based on the analysis of Tesla's financial health, market trends, and technical indicators, though this is highly speculative and subject to change based on new information.\n* Ultimately, the investment case for Tesla is complex and requires a nuanced understanding of both the company's fundamentals and the technical aspects of the stock market."
+}

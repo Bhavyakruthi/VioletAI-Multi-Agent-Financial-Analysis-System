@@ -1,0 +1,38 @@
+{
+  "ticker": "GOOGL",
+  "timestamp": "2026-01-11T19:21:09.599240",
+  "user_id": "d9656ed4-dd44-4683-8475-9739cb49fc29",
+  "stock_info": {
+    "name": "Alphabet Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "current_price": 328.57,
+    "market_cap": 3979679891456,
+    "currency": "USD"
+  },
+  "forecast": {
+    "target_price": 323.3,
+    "trend": "BEARISH",
+    "days": 7,
+    "current_price": 328.57000732421875
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "label": "Negative"
+  },
+  "fhi": {
+    "score": 88.48,
+    "grade": "A"
+  },
+  "recommendation": {
+    "rating": "HOLD",
+    "confidence": 0.62,
+    "final_score": 61.86,
+    "risk_level": "high",
+    "reasoning": "The KPI score is 42.86. The sentiment score is 10.0. The peer comparison score is 24.0. The final recommendation is HOLD."
+  },
+  "report_path": null,
+  "chart_url": "/charts/GOOGL_7d_20260111192111.png",
+  "chart_path": "output\\GOOGL_7d_20260111192111.png",
+  "report_body": "\"**.\n2.  **Executive Summary**: Briefly summarize the key findings: strong fundamentals vs. negative market sentiment, HOLD rating, high risk, and bearish short-term outlook.\n3.  **Financial Health & Sentiment Analysis**:\n    *   Discuss the FHI Score (88.48/100) indicating robust fundamental health.\n    *   Address the Sentiment (0.00) highlighting pervasive negativity.\n    *   Explain the divergence between these two points, drawing from the provided context.\n4.  **Document Insights**: Integrate the \"Key Insights for GOOGL\" provided in the context. This section will elaborate on the overall market outlook, robust fundamental health, significant divergence, and implications for investors.\n5.  **Technical Outlook**: Incorporate the 7-Day Outlook (BEARISH) and discuss its implications for short-term price movements.\n6.  **Final Investment Case**:\n    *   State the Rating (HOLD).\n    *   Justify the HOLD rating by balancing the strong fundamentals with the negative market sentiment and high risk.\n    *   Mention the Risk Level (high).\n    *   Provide a balanced perspective for different investor types (short-term vs. long-term).\n7.  **End with \""
+}

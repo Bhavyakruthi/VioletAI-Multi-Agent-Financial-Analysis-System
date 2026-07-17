@@ -1,0 +1,38 @@
+{
+  "ticker": "AAPL",
+  "timestamp": "2026-01-27T20:29:09.551110",
+  "user_id": "00000000-0000-0000-0000-000000000000",
+  "stock_info": {
+    "name": "Apple Inc.",
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "current_price": 261.58,
+    "market_cap": 3865198198784,
+    "currency": "USD"
+  },
+  "forecast": {
+    "target_price": 254.37,
+    "trend": "BEARISH",
+    "days": 30,
+    "current_price": 261.6300048828125
+  },
+  "sentiment": {
+    "compound": 0.01885324064642191,
+    "label": "Positive"
+  },
+  "fhi": {
+    "score": 55.65,
+    "grade": "D"
+  },
+  "recommendation": {
+    "rating": "HOLD",
+    "confidence": 0.58,
+    "final_score": 57.76,
+    "risk_level": "high",
+    "reasoning": "The KPI score is 38.57. The sentiment score is 10.19. The overall risk level is high. The final recommendation is HOLD."
+  },
+  "report_path": null,
+  "chart_url": "/charts/AAPL_30d_20260127202911.png",
+  "chart_path": "output\\AAPL_30d_20260127202911.png",
+  "report_body": "# Executive Summary\n\nAnalysis for **AAPL** generated on 2026-01-27.\n\n\n**Investment Rating: HOLD**\n\nConfidence: 58%\n\n\n## Financial Health\n\n- FHI Score: 55.65/100\n\n- Grade: D\n\n\n## Sentiment Analysis\n\n- Sentiment Score: 0.02\n\n- Outlook: Positive\n\n\n## 30-Day Forecast\n\n- Current Price: 261.63\n\n- Target Price: 254.37\n\n- Trend: BEARISH\n\n\n## Investment Rationale\n\nThe KPI score is 38.57. The sentiment score is 10.19. The overall risk level is high. The final recommendation is HOLD."
+}

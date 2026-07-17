@@ -1,0 +1,38 @@
+{
+  "ticker": "SBIN.NS",
+  "timestamp": "2026-01-11T20:38:43.213393",
+  "user_id": "d9656ed4-dd44-4683-8475-9739cb49fc29",
+  "stock_info": {
+    "name": "State Bank of India",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional",
+    "current_price": 1000.5,
+    "market_cap": 9235232456704,
+    "currency": "INR"
+  },
+  "forecast": {
+    "target_price": 1015.69,
+    "trend": "BULLISH",
+    "days": 30,
+    "current_price": 1000.5
+  },
+  "sentiment": {
+    "compound": 0.3808399555273354,
+    "label": "Positive"
+  },
+  "fhi": {
+    "score": 77.12,
+    "grade": "B"
+  },
+  "recommendation": {
+    "rating": "HOLD",
+    "confidence": 0.54,
+    "final_score": 54.24,
+    "risk_level": "high",
+    "reasoning": "The KPI score is 31.43. The sentiment score is 13.81. The overall risk level is high. The final recommendation is HOLD."
+  },
+  "report_path": null,
+  "chart_url": "/charts/SBIN.NS_30d_20260111203909.png",
+  "chart_path": "output\\SBIN.NS_30d_20260111203909.png",
+  "report_body": "**Equity Research Report: SBIN.NS**\n\n**1. Executive Summary**\n*   **SBIN.NS** demonstrates a robust financial profile and positive market sentiment, underpinned by strong fundamentals.\n*   **Investment Rating**: **HOLD**.\n*   **Risk Classification**: **high**.\n*   **30-Day Stock Outlook**: **BULLISH**, indicating anticipated short-term upward price movement.\n*   The company's **Financial Health Indicator (FHI) Score** of **77.12/100** highlights strong underlying financial stability.\n*   A **Sentiment Score** of **0.38** reflects a moderately positive market perception.\n\n**2. Financial Health & Sentiment Analysis**\n*   **Financial Health Indicator (FHI) Score**: **77.12/100**. This robust score signifies strong underlying financial health, reflecting solid fundamentals, efficient operations, and a healthy balance sheet.\n*   The high **FHI Score** positions **SBIN.NS** favorably from a financial stability perspective, suggesting resilience and operational efficiency within the banking sector.\n*   **Sentiment Score**: **0.38**. This score indicates a moderately positive market sentiment surrounding **SBIN.NS**.\n*   While not overwhelmingly bullish, the positive sentiment suggests a favorable general perception derived from news, social media, and other qualitative data sources, contributing to a positive outlook for the stock.\n\n**3. Document Insights**\n*   **Forecast Trend**: **BULLISH**. The explicit bullish forecast trend indicates a strong expectation for upward price movement in the near to medium term for **SBIN.NS**.\n*   This suggests that market analysts or predictive models anticipate positive performance for the stock, likely driven by underlying strengths and favorable sector conditions.\n\n**4. Technical Outlook**\n*   **30-Day Stock Outlook**: **BULLISH**. This short-term outlook suggests an expectation of positive price momentum for **SBIN.NS** over the next month.\n*   Technical indicators likely point towards an upward price trajectory, reinforcing the overall positive forecast trend for the stock.\n\n**5. Final Investment Case**\n*   **SBIN.NS** presents a compelling picture, characterized by strong financial health (**FHI Score: 77.12/100**) and a positive forecast trend.\n*   The moderately positive **Sentiment Score (0.38)** further supports a favorable market perception.\n*   Despite the overall positive indicators and a **BULLISH 30-Day Stock Outlook**, the **Investment Rating** is **HOLD**.\n*   Investors should note the **high Risk Classification**, suggesting potential volatility or specific challenges that warrant caution despite the positive fundamental and sentiment indicators.\n*   The **HOLD** rating, combined with the **high Risk Classification**, implies that while the stock has positive attributes and short-term bullish momentum, a more cautious approach is recommended, perhaps awaiting clearer catalysts or risk mitigation strategies."
+}

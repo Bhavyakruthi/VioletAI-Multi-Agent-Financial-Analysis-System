@@ -1,0 +1,69 @@
+# Backend Dependencies
+# ====================
+
+# FastAPI & Server
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.6
+websockets>=12.0
+
+# Pydantic
+pydantic>=2.5.3
+pydantic-settings>=2.1.0
+
+# Authentication
+supabase>=2.3.4
+python-jose[cryptography]>=3.3.0
+
+# Embeddings & Vector Store
+cohere>=4.44
+chromadb>=0.4.22
+
+# Document Processing
+langchain>=0.1.4
+langchain-community>=0.0.16
+pypdf>=3.17.4
+docx2txt>=0.8
+python-docx>=1.1.0
+unstructured
+
+# AI/ML & LLM
+google-generativeai>=0.7.2
+transformers>=4.37.0
+torch>=2.0.0
+
+# CrewAI & LLM Stack (from predict_report)
+crewai[google-genai]
+crewai-tools
+litellm
+langchain-google-genai>=1.0.10
+langchain-huggingface>=0.0.1
+sentence-transformers>=2.2.0
+
+# Prophet Forecasting
+prophet>=1.1.5
+
+# Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+tabulate>=0.9.0
+
+# Stock Data
+yfinance>=0.2.35
+
+# RAG Engine
+faiss-cpu>=1.7.4
+
+# PDF Generation
+fpdf>=1.7.2
+
+# Utilities
+python-dotenv>=1.0.0
+httpx>=0.26.0
+aiofiles>=23.2.1
+PyYAML>=6.0.1
+requests>=2.31.0
+plotly>=5.18.0
+APScheduler>=3.10.4

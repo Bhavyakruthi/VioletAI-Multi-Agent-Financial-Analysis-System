@@ -1,0 +1,38 @@
+{
+  "ticker": "ICICIBANK.NS",
+  "timestamp": "2026-01-11T20:33:16.953885",
+  "user_id": "d9656ed4-dd44-4683-8475-9739cb49fc29",
+  "stock_info": {
+    "name": "ICICI Bank Limited",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional",
+    "current_price": 1404.3,
+    "market_cap": 10042143145984,
+    "currency": "INR"
+  },
+  "forecast": {
+    "target_price": 1321.96,
+    "trend": "BEARISH",
+    "days": 7,
+    "current_price": 1404.300048828125
+  },
+  "sentiment": {
+    "compound": 0.2833219049498439,
+    "label": "Positive"
+  },
+  "fhi": {
+    "score": 81.27,
+    "grade": "A"
+  },
+  "recommendation": {
+    "rating": "HOLD",
+    "confidence": 0.65,
+    "final_score": 64.69,
+    "risk_level": "medium",
+    "reasoning": "The KPI score is 32.86. The sentiment score is 12.83. The overall risk level is medium. The final recommendation is HOLD."
+  },
+  "report_path": null,
+  "chart_url": "/charts/ICICIBANK.NS_7d_20260111203322.png",
+  "chart_path": "output\\ICICIBANK.NS_7d_20260111203322.png",
+  "report_body": "\".\n2.  Create the \"Executive Summary\" section, incorporating the rating, risk level, 7-day outlook, FHI score, and sentiment. Highlight the divergence between strong fundamentals and bearish outlook.\n3.  Develop the \"Financial Health & Sentiment Analysis\" section, detailing the FHI score and sentiment score, and explaining their implications.\n4.  Skip \"Document Insights\" as no specific document context was provided beyond the structured summary.\n5.  Construct the \"Technical Outlook\" section, focusing on the 7-day outlook and overall forecast trend.\n6.  Formulate the \"Final Investment Case\" section, summarizing the \"HOLD\" rating and the rationale, considering both strengths and weaknesses.\n7.  Ensure all sections use clear, point-wise format with markdown bolding for key terms.\n8.  End with \""
+}
