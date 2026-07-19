@@ -1,4 +1,4 @@
-VioletAI
+# VioletAI
 ### *An End-to-End Multi-Agent Financial Analysis and Equity Research Automation System*
 
 <br>
